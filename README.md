@@ -1,2 +1,2 @@
 # Tetris
-Another tetris game
+Another tetris game. This time in Unity :-)
